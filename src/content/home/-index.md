@@ -1,9 +1,7 @@
 ---
 image: "@assets/astrogon-star.svg"
 imageAlt: Astrogon logo
-title: Astrogon
-content: A rapidly-customizable template for a blog, documentation, and more.
-button:
-  label: See the Code
-  link: https://github.com/astrogon/astrogon
+title: Come Have A Good Time!
+content: Hello, thanks for stopping by! This is my little corner of the internet where I plan to post my blog content and webnovels. Look around and I hope you give something a read.
+
 ---

@@ -1,11 +1,7 @@
 ---
-title: Jane Doe
-email: janedoe@email.com
+title: Jiggy T. S.
+email: Jiggy@comehaveagoodtime.com
 image: "@assets/profile/jane-doe.jpg"
-social:
-  github: "https://github.com/"
-  linkedIn: "https://www.linkedin.com/"
-  email: "janedoe@janedoe.com"
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+I am an internet writer, specailizing in fantasy and webnovel styled writing. 
