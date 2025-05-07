@@ -13,7 +13,8 @@ let parts = [
 ];
 
 paths.forEach((label: string, i: number) => {
-  const href = `/${paths.slice(0, i + 1).join("/")}`;
+  const base = Astro.site.pathname.endsWith("/") ? Astro.site.pathname : `${Astro.site.pathname}/`;
+  const href = `${base}${paths.slice(0, i + 1).join("/")}`;
   label !== "page" &&
     parts.push({
       label: lowerHumanize(label.replace(/[-_]/g, " ")) || "",
